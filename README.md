@@ -1,5 +1,5 @@
 # test_IQ-Maxima
-## https://rivixxx.github.io/test_IQ-Maxima/
+## https://rivixxx.github.io/test__IQ-Maxiima/
 
 • Выполнить валидную семантическую верстку в соответствии с макетом;<br>
 • Реализовать анимацию в соответствии с приложенным файлом.
