@@ -2175,7 +2175,7 @@ body .wrapper {
   position: relative;
   height: 100vh;
 }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 533px) {
   .portpholio__wrapper {
     height: 100%;
   }
@@ -2199,7 +2199,7 @@ body .wrapper {
     left: -100px;
   }
 }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 533px) {
   .portpholio__wrapper-title {
     transform: rotate(0deg);
     top: 7px;
@@ -2223,7 +2223,7 @@ body .wrapper {
     grid-template-areas: "small1 small2" "medium big";
   }
 }
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 533px) {
   .portpholio__wrapper .portpholio__container .portpholio {
     grid-template-columns: 1fr;
     grid-template-rows: auto 1fr;
